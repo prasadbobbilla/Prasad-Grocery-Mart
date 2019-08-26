@@ -15,4 +15,4 @@ We are happy to announce for launching our new direct selling groceries mart thr
 - Government Identity Proof
 - Government Address 
 
-[Log In] (https://github.com/prasadbobbilla/prasadbobbilla.github.io/blob/master/Login%20Page.png)
+[Log In](https://github.com/prasadbobbilla/prasadbobbilla.github.io/blob/master/Login%20Page.png)
