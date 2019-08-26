@@ -8,7 +8,7 @@ We are happy to announce for launching our new direct selling groceries mart thr
 ## Advantages of our groceries mart :
  
  1. Earn on your referral Sign-Up
- 2. Earn on your referral groceries purchases every time
+ 2. Earn on your referral groceries purchases
 
 ## Requirements to open an Account :
 
