@@ -1,4 +1,5 @@
 # Prasad Grocery Mart
+![](https://github.com/prasadbobbilla/Prasad-Grocery-Mart/blob/master/Capture.PNG)
 <h1>Earn money when your referral purchase groceries from our mart</h1>
 <h2>We are happy to announce that launching our new direct selling groceries mart through online</h2>
 <h2> Advantages of our groceries mart :</h2>
