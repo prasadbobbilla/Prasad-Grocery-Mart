@@ -9,11 +9,15 @@ We are happy to announce for launching our new direct selling groceries mart thr
  
  1. Earn on your referral Sign-Up
  2. Earn on your referral groceries purchases
+ 3. Free Delivery
+ 4. Quick(1-Day) Delivery 
 
-## Requirements to open an Account :
+## Requirements to Sign Up :
 
 - Government Identity Proof
 - Government Address Proof
+- Email Id
+- Mobile Number
 
 
 
