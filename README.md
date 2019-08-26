@@ -6,12 +6,11 @@ We are happy to announce for launching our new direct selling groceries mart thr
 ![](https://github.com/prasadbobbilla/Prasad-Grocery-Mart/blob/master/refer.png)
 
 ## Advantages of our groceries mart :
-<ol> 
-  <li>Earn on your referral Sign-Up</li>
-  <li>Earn on your referral groceries purchases every time</li>
-</ol>
+ 
+ 1. Earn on your referral Sign-Up
+ 2. Earn on your referral groceries purchases every time
+
 ## Requirements to open an Account :
-<ul>
-  <li>Government Identity Proof</li>
-  <li>Government Address Proof</li>
-</ul>
+
+- Government Identity Proof
+- Government Address Proof
