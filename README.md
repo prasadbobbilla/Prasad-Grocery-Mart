@@ -21,8 +21,8 @@ We are happy to announce for launching our new direct selling groceries mart thr
 
 
 
-[Sign Up...](Sign up.png)
+[Sign Up](Sign up.png)
 
-[Sign In...](Login Page.png)
+[Sign In](Login Page.png)
 
-[Contact Us...](Contact us 1.png)
+[Contact Us](Contact us 1.png)
